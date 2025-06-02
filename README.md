@@ -36,16 +36,16 @@ Place your training and test CSV files in a folder named `data`:
    ``` 
    source venv/bin/activate  # On macOS/Linux  
    ```
-3. Install requirements:
+2. Install requirements:
    ```
    pip install -r requirements.txt
    ```
-4. Start Jupyter Notebook:
+3. Start Jupyter Notebook:
    ```
    jupyter notebook
    ```
 
-5. Open the notebook (e.g., `spam_detection_nlp.ipynb`) on jupyter and run all cells.
+4. Open the notebook (e.g., `spam_detection_nlp.ipynb`) on jupyter and run all cells.
 
 ## Output
 
