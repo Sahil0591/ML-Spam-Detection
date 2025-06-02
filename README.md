@@ -10,11 +10,13 @@ This project implements a spam detection system using Natural Language Processin
 ### Required Python Packages (Install after reading "How to Run" section below)
 
 Install all dependencies using:
+```
 pip install -r requirements.txt
-
+```
 Or, install manually:
+```
 pip install numpy pandas scikit-learn nltk jupyter
-
+```
 ## Data
 
 Place your training and test CSV files in a folder named `data`:
