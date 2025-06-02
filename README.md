@@ -24,13 +24,15 @@ Place your training and test CSV files in a folder named `data`:
 ## How to Run
 
 1. Activate your virtual environment (if using one):
-   ``` On Windows
+   ``` 
    python -m venv venv
-   venv\Scripts\activate  
+   ```
+   ``` 
+   venv\Scripts\activate  # On Windows
    ```
    or 
-   ``` On macOS/Linux
-   source venv/bin/activate   
+   ``` 
+   source venv/bin/activate  # On macOS/Linux  
    ```
 3. Install requirements:
    ```
